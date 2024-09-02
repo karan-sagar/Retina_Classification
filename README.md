@@ -4,12 +4,12 @@ Machine Learning project to classify whether the provided image is an image of a
 
 Motivation: 
 
-This project is quite personal for me. On a Friday of October of 2021, around 4PM, I went in for a routine eye exam. Everything was going well until my doctor (optometrist) starts to check the back of my eyes. I notice she's taking quite a while to inspect them. I ask, "Is everything okay?". She says, "I think you might have a retinal tear". At this time I had no idea of what this was or what it meant, as a result I was scared. 
+This project is deeply personal to me. On a Friday afternoon in October 2021, I went in for a routine eye exam. Everything seemed normal until my optometrist began examining the back of my eyes. She took an unusually long time, and I asked, "Is everything okay?" She responded, "I think you might have a retinal tear." At that moment, I had no idea what this meant, and I was understandably frightened.
 
-I was rushed to hospital to see a retinal specialist. Again, it was a Friday evening so most of them are gone home, but she managed to find someone on call at a hospital. 
+I was quickly referred to a hospital to see a retinal specialist. Since it was Friday evening, most specialists had already left for the day, but fortunately, someone on call was found.
 
-I got there and the retinal specialist examined my retina. She calls up another specialist to take a look aswell. Both of these doctors conclude, there is no tear and it's just lattice (lattice degeneration). 
+I got there and the retinal specialist examined my retina. The retinal specialist consulted another expert for a second opinion. Both of these doctors conclude, there is no tear and it's just lattice (lattice degeneration).
 
-It took 3 doctors, to classify whether I have a retinal tear or not. Since then, I've been factinated by eyes and their complexity. As a result, I've taken on this project of classifiying whether a retina is healthy or not, wihtout knowing any intricacies that maybe present or having any domain knowledge. 
+It took the expertise of three doctors to classify whether I have a retinal tear or not. This experience sparked my fascination with the complexity of the human eye (and human body in general). As a result, I've embarked on this project to classify whether a retina is healthy, despite lacking intricate domain knowledge.
 
 Since then, I've also had a deeper appreciation for the human body :). 
