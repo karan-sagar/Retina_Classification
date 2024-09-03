@@ -4,7 +4,7 @@ Machine Learning project to classify whether the provided image is an image of a
 
 Motivation: 
 
-This project is deeply personal to me. On a Friday afternoon in October 2021, I went in for a routine eye exam. Everything seemed normal until my optometrist began examining the back of my eyes. She took an unusually long time, and I asked, "Is everything okay?" She responded, "I think you might have a retinal tear." At that moment, I had no idea what this meant, and I was understandably frightened.
+On a Friday afternoon in October 2021, I went in for a routine eye exam. Everything seemed normal until my optometrist began examining the back of my eyes. She took an unusually long time, and I asked, "Is everything okay?" She responded, "I think you might have a retinal tear." At that moment, I had no idea what this meant, and I was understandably frightened.
 
 I was quickly referred to a hospital to see a retinal specialist. Since it was Friday evening, most specialists had already left for the day, but fortunately, someone on call was found.
 
